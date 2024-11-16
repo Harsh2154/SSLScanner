@@ -19,7 +19,7 @@ A Python-based tool to analyze and identify weaknesses in SSL/TLS configurations
 1.Clone the Repository
   Clone this repository to your local machine:
   ```bash
-  git clone https://github.com/yourusername/ssl-tls-checker.git
+  git clone https://github.com/Harsh2154/SSLScanner.git
   ```
 2.Navigate to the Project Directory
   ```bash
